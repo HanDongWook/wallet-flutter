@@ -1,16 +1,12 @@
-# toonflix
+<h1 align="center">Wallet Screen</h1>
 
-A new Flutter project.
+<p align="center">  
+Wallet Screen using Flutter.
+</p>
 
-## Getting Started
+## Tech stack & Open-source libraries
+- Flutter
+- Dart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen
+<img width="270" height="600" alt="Screenshot_1756876748" src="https://github.com/user-attachments/assets/2754240b-9f1c-4fd4-ab30-fa111074b447" />
